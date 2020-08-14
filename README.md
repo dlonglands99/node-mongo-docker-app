@@ -20,3 +20,5 @@ volumes: ['./:/usr/src/app']
 # To re-build
 docker-compose build
 ```
+
+DISCLAIMER: THIS PROJECT IS NOT MY OWN, IT IS FROM TraveryMedia Youtube tutorial on Docker
